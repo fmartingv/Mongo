@@ -76,4 +76,3 @@ Este proyecto implementa una **aplicación web** utilizando Flask y MongoDB para
 - 🐳 **Dockerizado** para fácil implementación y escalabilidad.
 - 🧪 **Pruebas simples** para verificar el funcionamiento.
 
-
